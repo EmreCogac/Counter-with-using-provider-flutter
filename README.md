@@ -1,6 +1,6 @@
 # ScaffoldExmp
 
-A new Flutter project.
+Flutter 1.22 stable.
 
 ## Getting Started
 
